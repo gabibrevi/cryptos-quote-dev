@@ -41,5 +41,5 @@ This project is licensed under the MIT License.
 # 📫 Contact
 For questions or support, feel free to reach out via:
 
-LinkedIn: https://linkedin.com/in/gabibrevi/
-GitHub: https://github.com/gabibrevi
+- LinkedIn: https://linkedin.com/in/gabibrevi/
+- GitHub: https://github.com/gabibrevi
