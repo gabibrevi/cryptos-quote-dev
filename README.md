@@ -20,14 +20,14 @@ The application is built with custom hooks for optimized functionality and enhan
 
 # ✨ Key Functionalities
 1. Real-Time Cryptocurrency Data
-- Fetches real-time data for various cryptocurrencies using the CryptoCompare API.
-- Displays price, market trends, and other relevant data, allowing users to compare multiple cryptocurrencies at once.
+  - Fetches real-time data for various cryptocurrencies using the CryptoCompare API.
+  - Displays price, market trends, and other relevant data, allowing users to compare multiple cryptocurrencies at once.
 
 2. Custom Hooks for Optimized Functionality
-- Custom React Hooks are used to handle API calls, state management, and data fetching, promoting code reusability and maintainability.
+  - Custom React Hooks are used to handle API calls, state management, and data fetching, promoting code reusability and maintainability.
 
 3. Styled Components for Dynamic Design
-- Utilizes Styled Components for building modular and dynamic UI components, ensuring that the application is both visually appealing and responsive across devices.
+  - Utilizes Styled Components for building modular and dynamic UI components, ensuring that the application is both visually appealing and responsive across devices.
 
 # 📡 API Integration
 - CryptoCompare API: This application integrates with the CryptoCompare API to fetch live cryptocurrency data. Data includes current price, market trends, and comparisons between selected cryptocurrencies.
